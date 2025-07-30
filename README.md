@@ -29,12 +29,3 @@ Technologies Used
 
     OpenWeather API for weather data
 
-Notes
-
-    Your config.js file is ignored by Git (added to .gitignore) to keep your API key private.
-
-    For production apps, consider using a backend to securely manage API keys.
-
-License
-
-MIT License © Karol Pawlowski
