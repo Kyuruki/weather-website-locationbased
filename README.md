@@ -5,7 +5,7 @@ A clean and responsive weather app that fetches current weather data for any cit
 ## Features
 
 - Search for any city’s current weather
-- Displays temperature in Celsius (easy to switch to Fahrenheit)
+- Displays temperature in Fahrenheit
 - Shows weather icons and descriptions
 - Dynamic background changes according to weather conditions
 - Responsive layout for desktop and mobile
