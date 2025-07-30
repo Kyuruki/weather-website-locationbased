@@ -11,6 +11,8 @@ A clean and responsive weather app that fetches current weather data for any cit
 - Responsive layout for desktop and mobile
 - Smooth fade-in animation for weather cards
 
+![ezgif-7d29e1d47fceee](https://github.com/user-attachments/assets/e38f7f90-1066-4cf6-80e4-11836e041777)
+
 Usage
 
     Type a city name in the search input
