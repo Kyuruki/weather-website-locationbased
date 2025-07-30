@@ -21,6 +21,8 @@ Usage
 
     View current weather information and dynamic background
 
+    If Recreating you must create a config.js file with the variable apiKey
+
 Technologies Used
 
     HTML5
